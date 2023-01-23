@@ -1,0 +1,6 @@
+clc:clear command
+clearvars:clear workspace variables
+apostrophe省略符號（’）
+; can supress output
+, can seprate statements
+digress離題
